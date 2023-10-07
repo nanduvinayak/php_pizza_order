@@ -1,0 +1,55 @@
+body{
+    margin: 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 800px;
+    width: auto;
+    background-size: cover;
+    background-blend-mode: darken;
+    background-color: rgb(82, 108, 133);
+}
+
+.navbar-custom {
+    background-color: rgb(38, 80, 231);
+    color: antiquewhite;
+    
+}
+#h1tag{
+    text-align: center;
+    font-size: 2rem;
+    padding: 3rem;
+    color: rgb(189, 241, 241);
+}
+
+.cus{
+    text-align: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+.input{
+    border-radius: 5px;
+    border-color: rgb(255, 255, 255);
+}
+.line{
+    padding-top: 10px;
+}
+.form{
+    text-align:center ;
+    padding:  3rem;
+    font-size: 1rem;
+    line-height:2rem;
+    color: antiquewhite;
+    
+    
+}
+.button{
+    color: rgb(41, 107, 199);
+    font-weight: 700;
+    background-color: rgb(31, 1, 1);
+    align-items: center;
+    text-align: center;
+
+}
+.button:hover{
+    color: rgb(189, 171, 171);
+}
