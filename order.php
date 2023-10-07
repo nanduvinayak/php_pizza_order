@@ -1,5 +1,5 @@
 <?php
-// Database connection (replace with your database details)
+// Database connection
 $host = "172.31.22.43";
 $username = "Vinayak200549292";
 $password = "ewbAg3_AQ9";
